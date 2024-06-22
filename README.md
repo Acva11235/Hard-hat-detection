@@ -9,8 +9,7 @@ This project leverages the TensorFlow Model Zoo with the EfficientDet D0 (512x51
 ## 🚀 In action
 
 ![Example with hard hats](example_with_hard_hats.gif)
-
-![Example without hard hats](example_with_hard_hats.gif)
+![Example without hard hats](example_without_hard_hats.gif)
 
 
 ## ⚡ Features
