@@ -1,7 +1,7 @@
 # 🚧 Hard Hat Detection using Efficientdet D0 👷
 
-## Overview
-The **Hard Hat Detection Project** aims to enhance construction site safety by detecting workers not wearing hard hats through CCTV footage. Utilizing advanced object detection techniques, this project processes live video streams to identify safety violations in real-time.
+## Overview: HatGuard AI
+The **Hard Hat Detection Project** aims to enhance construction site safety by detecting workers not wearing hard hats through CCTV footage. Utilizing advanced object detection techniques, this project processes live video streams to identify safety violations in real-time. Each year, 12,000 workers die due to head injuries, and HatGuard AI helps solve this critical issue by ensuring that proper safety measures are followed.
 
 ## 🧠 Model and working
 This project leverages the [TensorFlow Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) with the EfficientDet D0 (512x512) model, trained on a dataset of 10,000 construction images comprising over 20,000 objects. The model was trained for 30,000 steps, ensuring high accuracy and robustness in diverse environments.
